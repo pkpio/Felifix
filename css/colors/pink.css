@@ -1,0 +1,56 @@
+.active .service i,
+.active .service h3,
+.blog > h3 a:hover,
+.blog-date a ,
+.features .tab-content h4 i,
+.era:hover .era-time i,
+.blog-meta li a:hover,
+.features-selectors .nav li.active a, .features-selectors .nav li.active a:hover, .features-selectors .nav li.active a:focus,
+.review-message > h4,
+.member-intro > h3 span,
+.blog-meta li a,
+.features .tab-content h4 span,
+.dotted-title h4 span,
+.sidebar-widget ul li:hover > a,
+.blog > h3:hover a,
+.slide2-sub-title,
+.slide3-title span,
+.team-member > h4 span,
+.offer-box h4,
+.quote-box > p > i,
+.comment > span > i,
+.text-slide > h2 span,
+.offer-box i{
+	color:#ff6699;
+}
+.awards > div:before,
+.div:hover > .icon-title i,
+.option-combo,
+.theme-tabs .nav li.active a,
+.price-table:hover .table-icon,
+.price-table .list > a:hover,
+.contact-tabs.nav li.active a,
+.social > a:hover,
+nav li a:before,
+.more-btn:hover:before,
+.sidebar-widget ul li:hover:before,
+#toggle > h3.active,
+.slide1-icon:hover,
+.tagcloud > a:after,
+div:hover > .icon-title i{
+	background:#ff6699;
+}
+div:hover > .icon-title i,
+nav > .container ul > li > ul,
+nav.stick-bottom.sticky > .container ul > li > ul,
+.features-selectors .nav li.active a, .features-selectors .nav li.active a:hover, .features-selectors .nav li.active a:focus{
+	border-color:#ff6699;
+}
+
+.video > a,
+.blog-date ,
+.offer-box:before,
+.slide3-desc,
+.blog-img .blog-link a {
+	background:rgba(255,102,153,0.8);
+}
