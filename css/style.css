@@ -1078,10 +1078,11 @@ header.traditional-header .sticky .logo,header.traditional-header .sticky ul{
 #portfolio .col-md-10,
 #portfolio .col-md-11,
 #portfolio .col-md-12{
-	padding:0;
+	padding:10px;
 }
 .portfolio-image{
 	position:relative;
+    /** padding: 10px 10px; **/
 }
 .portfolio-image:hover {
     z-index: 3;
