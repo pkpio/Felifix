@@ -2785,16 +2785,16 @@ div:hover > .hover.hover-five{
 }
 .phone-number h5 {
     color: #3F3F3F;
-    font-size: 75px;
+    font-size: 40px;
     font-weight: 800;
-    padding-left: 30px;
+    padding-left: 90px;
     padding-top: 70px;
     position: relative;
     z-index: 1000;
 }
 .phone-number i {
     color: #595959;
-    font-size: 300px;
+    font-size: 225px;
     left: 0;
     opacity: 0.55;
     position: absolute;
@@ -2817,15 +2817,17 @@ div:hover > .hover.hover-five{
 .address h5 {
     color: #3F3F3F;
     font-size: 16px;
-    font-weight: 800;
+    font-weight: 500;
     padding-bottom: 40px;
-    padding-top: 100px;
+    padding-top: 80px;
+	left: -80px;
+	line-height: 28px;
     position: relative;
     z-index: 1000;
 }
 .address i {
     color: #595959;
-    font-size: 300px;
+    font-size: 225px;
     left: 0;
     opacity: 0.55;
     position: absolute;
@@ -2853,7 +2855,6 @@ div:hover > .hover.hover-five{
     font-family: arimo;
     font-size: 13px;
     line-height: 60px;
-    text-transform: uppercase;
 }
 .social {
     float: right;
