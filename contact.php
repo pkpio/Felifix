@@ -39,15 +39,11 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@themeforest.net";
-$address = "example@themeforest.net";
+$address = "shivaram1230@gmail.com";
 
 
 // Configuration option.
-// i.e. The standard subject will appear as, "You've been contacted by John Doe."
-
-// Example, $e_subject = '$name . ' has contacted you via Your Website.';
-
-$e_subject = 'You\'ve been contacted by ' . $name . '.';
+$e_subject = 'You\'ve been contacted on Felifix by ' . $name . '.';
 
 
 // Configuration option.
