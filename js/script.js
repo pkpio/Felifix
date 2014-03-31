@@ -558,7 +558,9 @@ $(window).scroll(function() {
 				$('#message').slideDown('slow');
 				$('#contactform img.loader').fadeOut('slow',function(){$(this).remove()});
 				$('#submit').removeAttr('disabled');
-				if(data.match('success') != null) $('#contactform').slideUp('slow');
+				if(data.match('success') != null){
+					// Write a piece of code to reset form data here. Avoids easy spamming.
+				}
 
 			}
 		);
