@@ -2818,12 +2818,18 @@ div:hover > .hover.hover-five{
     color: #3F3F3F;
     font-size: 16px;
     font-weight: 500;
-    padding-bottom: 40px;
     padding-top: 80px;
-	left: -80px;
+	left: 0px;
+	top: -50px;
 	line-height: 28px;
     position: relative;
     z-index: 1000;
+}
+.address p {
+	left: 0px;
+	top: -40px;
+	position: relative;
+	font-weight: 800;
 }
 .address i {
     color: #595959;
